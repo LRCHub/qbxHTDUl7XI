@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "IYKYK",
+  "base_artist": "XG",
+  "createdAt": "2025-12-18T15:27:15.308065Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "IYKYK",
+      "artist": "B-Lovee",
+      "has_synced": true,
+      "path": "select/01_IYKYK_B-Lovee.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "IYKYK (feat. Ella Mai & A Boogie Wit Da Hoodie)",
+      "artist": "Lil Durk feat. Ella Mai & A Boogie Wit da Hoodie",
+      "has_synced": true,
+      "path": "select/02_IYKYK_(feat._Ella_Mai_&_A_Boogie_Wit_Da_Hoodie)_Lil_Durk_feat._Ella_Mai_&_A_Boogie_Wit_da_Hoodie.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "IYKYK (feat. Ella Mai & A Boogie Wit Da Hoodie)",
+      "artist": "Lil Durk",
+      "has_synced": true,
+      "path": "select/03_IYKYK_(feat._Ella_Mai_&_A_Boogie_Wit_Da_Hoodie)_Lil_Durk.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "IYKYK",
+      "artist": "New West",
+      "has_synced": true,
+      "path": "select/04_IYKYK_New_West.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "IYKYK",
+      "artist": "Lil Durk feat. Ella Mai & A Boogie Wit Da Hoodie",
+      "has_synced": true,
+      "path": "select/05_IYKYK_Lil_Durk_feat._Ella_Mai_&_A_Boogie_Wit_Da_Hoodie.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "IYKYK (feat. Ella Mai & A Boogie Wit Da Hoodie)",
+      "artist": "Lil Durk",
+      "has_synced": true,
+      "path": "select/06_IYKYK_(feat._Ella_Mai_&_A_Boogie_Wit_Da_Hoodie)_Lil_Durk.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "IYKYK",
+      "artist": "Belly",
+      "has_synced": false,
+      "path": "select/07_IYKYK_Belly.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "IYKYK",
+      "artist": "Lil Durk",
+      "has_synced": true,
+      "path": "select/08_IYKYK_Lil_Durk.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "IYKYK",
+      "artist": "Fox Lake",
+      "has_synced": true,
+      "path": "select/09_IYKYK_Fox_Lake.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "IYKYK (Official Lyric Video)",
+      "artist": "New West",
+      "has_synced": true,
+      "path": "select/10_IYKYK_(Official_Lyric_Video)_New_West.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "IYKYK",
+      "artist": "Maikel",
+      "has_synced": true,
+      "path": "select/11_IYKYK_Maikel.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "iykyk",
+      "artist": "Heiakim",
+      "has_synced": true,
+      "path": "select/12_iykyk_Heiakim.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "iykyk",
+      "artist": "jayo",
+      "has_synced": false,
+      "path": "select/13_iykyk_jayo.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "IYKYK (They Know Who)",
+      "artist": "Hooligan Hefs",
+      "has_synced": true,
+      "path": "select/14_IYKYK_(They_Know_Who)_Hooligan_Hefs.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "IYKYK",
+      "artist": "New West",
+      "has_synced": true,
+      "path": "select/15_IYKYK_New_West.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "IYKYK",
+      "artist": "ELEVATION RHYTHM",
+      "has_synced": true,
+      "path": "select/16_IYKYK_ELEVATION_RHYTHM.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "IYKYK",
+      "artist": "XG",
+      "has_synced": false,
+      "path": "select/pl_01_IYKYK_XG.txt"
+    }
+  ]
+}
